@@ -15,7 +15,7 @@ public class test {
 			i++;
 		}
 
-		System.out.println("ÊäÈëĞ¡Ğ´×ÖÄ¸³öËæ»ú×ø±ê£¬ÊäÈëÆäËû¶«Î÷´íÎó");
+		System.out.println("è¾“å…¥å°å†™å­—æ¯å‡ºéšæœºåæ ‡");
 
 		while (true) {
 			String a=s.next();
